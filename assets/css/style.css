@@ -7,6 +7,7 @@
 body {
     font-family: 'montserrat';
     font-size: 13px;
+    overflow-x: hidden;
 }
 
 header {
@@ -153,4 +154,9 @@ header {
 
 .banner .slides-pointers .pointer .active {
     background-color: #B28756;
+}
+
+.default {
+    background-color: red;
+
 }
