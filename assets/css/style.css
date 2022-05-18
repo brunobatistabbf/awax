@@ -536,3 +536,40 @@ header {
     margin: 30px;
     cursor: pointer;
 }
+
+.section-prices {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.price {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    background-color: #FFF;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+}
+
+.uptitle {
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.number-price {
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 3px;
+
+}
+
+.data-price {
+    color: #CCC;
+    font-size: 10px;
+    margin-bottom: 10px;
+}
