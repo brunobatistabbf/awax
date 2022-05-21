@@ -659,3 +659,32 @@ header {
 .facts {
     width: 250px;
 }
+
+.default.light.socialMedia {
+    padding: 0%;
+    border-top: 1px solid rgb(218, 218, 218);
+    border-bottom: 1px solid rgb(218, 218, 218);
+    background-color: #FFF;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.section-socialmedia-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(197, 197, 197);
+    margin-right: 30px;
+}
+
+.section-body.socialMedia {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-socialmedia {
+    display: flex;
+    margin-right: 30px;
+}
