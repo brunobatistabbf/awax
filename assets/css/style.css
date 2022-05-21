@@ -626,3 +626,36 @@ header {
     margin-right: 5px;
     cursor: pointer;
 }
+
+.section-facts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.facts-number {
+    text-align: center;
+    color: #B28756;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.facts-title {
+    text-align: center;
+    font-size: 21px;
+    text-transform: uppercase;
+    color: #FFF;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.facts-subtitle {
+    text-align: center;
+    font-size: 13px;
+    color: #555;
+}
+
+.facts {
+    width: 250px;
+}
