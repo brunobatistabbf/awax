@@ -8,6 +8,7 @@ body {
   font-family: "montserrat";
   font-size: 13px;
   overflow-x: hidden;
+  background-color: #f7f7f7;
 }
 
 header {
@@ -734,4 +735,28 @@ header {
 
 .section-map--info-img img {
   margin-right: 5px;
+}
+
+.default.light.footer {
+  padding: 0%;
+}
+.footer-content {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.footer-content-ir {
+  width: 370px;
+  height: 167px;
+}
+
+.footer-text-style {
+  font-size: 13px;
+  text-transform: none;
+  text-align: justify;
+}
+
+#button-form {
+  margin: 17px;
 }
