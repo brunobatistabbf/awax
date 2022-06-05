@@ -851,4 +851,20 @@ header {
   .section-map--info-item:last-child {
     margin-bottom: 0;
   }
+
+  .section-partner {
+    margin: 12px;
+  }
+
+  .section-book {
+    flex-direction: column;
+  }
+
+  .section-body.book .slides-pointers {
+    display: none;
+  }
+
+  .section-book {
+    border-bottom: none;
+  }
 }
